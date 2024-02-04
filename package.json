@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "comp4537lab3new",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasHYing/COMP4537Lab3New.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasHYing/COMP4537Lab3New/issues"
+  },
+  "homepage": "https://github.com/LucasHYing/COMP4537Lab3New#readme",
+  "description": ""
+}
